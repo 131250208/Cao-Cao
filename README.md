@@ -18,7 +18,7 @@ click `run.bat`
 </p>
 
 <p align="center">
-  <img https://user-images.githubusercontent.com/7437595/95852944-3112e500-0d87-11eb-8770-5c9a2761708e.jpg" alt="buy_items" width="768"/>
+  <img src="https://user-images.githubusercontent.com/7437595/95852944-3112e500-0d87-11eb-8770-5c9a2761708e.jpg" alt="buy_items" width="768"/>
 </p>
 
 <p align="center">
