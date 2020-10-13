@@ -9,7 +9,7 @@ This project is adapted from the mini game: DotsAndBoxes (点格棋). We endows 
 
 ## Requirements
 ```
-Java 1.8
+JDK 1.7
 ```
 
 ## Run
