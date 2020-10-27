@@ -1,4 +1,4 @@
-# DotsAndBox
+# Cao Cao
 This project is adapted from the mini game: DotsAndBoxes (点格棋). We endows it with the background of the Three Kingdoms. In the story mode, The leading hero is Cao Cao. Note that **none of the material (image) is original**. They are from Dynasty Warriors (三国无双), Killers of the Three Kingdoms (三国杀), and SANGO (三国群英传).
 
 ## Contributors
